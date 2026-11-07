@@ -7,6 +7,7 @@
 - **Ngành học:** He thong thong tin
 
 ## Mục tiêu học tập
+- Hoàn thành tốt các kỹ năng lập trình: html, CSS, JavaScript, C, C#, PHP, MySQL.
 - Tìm hiểu và sử dụng thành thạo Git & GitHub để quản lý mã nguồn.
 - Hoàn thành tốt học phần Thực hành Phát triển Hệ thống Web.
 S
